@@ -4,7 +4,7 @@
 <img src="https://i.ibb.co/SwwRBcP1/cronometro.png" />
 
 🌟 Funcionalidades Principais
-🕒 Cronômetro Inteligente
+🕒 Cronômetro Inteligentee_
 ▶️ Contagem regressiva com formatação HH:MM:SS ou MM:SS
 
 📊 Barra de progresso visual colorida
